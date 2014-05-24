@@ -1,0 +1,24 @@
+console
+type Set = Int => Boolean
+console
+compile
+test
+styleCheck
+test
+compile
+styleCheck
+submit jomotomo@gmail.com rpPNJz9aHS
+console
+compile
+test
+styleCheck
+submit jomotomo@gmail.com rpPNJz9aHS
+console
+compile
+test
+submit jomotomo@gmail.com rpPNJz9aHS
+console
+compile
+test
+submit jomotomo@gmail.com rpPNJz9aHS
+ssh git@crazyhorse

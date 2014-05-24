@@ -1,0 +1,37 @@
+19:46:35,335 I: (ErlangCore.java:66) : Starting CORE Thread[Worker-2,5,main]
+19:46:35,341 I: (ErlangCore.java:75) : *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII) 
+19:46:35,343 I: (ErlangCore.java:82) : Started CORE
+19:46:36,178 F: (ErlangHostnameRetriever.java:40) : Test long hostname: retro.hsd1.nj.comcast.net.
+19:46:37,347 W: (ErlangHostnameRetriever.java:46) : Can't use retro.hsd1.nj.comcast.net. as long name
+19:46:38,064 F: (ErlangHostnameRetriever.java:40) : Test long hostname: 10.0.1.202
+19:46:39,072 W: (ErlangHostnameRetriever.java:46) : Can't use 10.0.1.202 as long name
+19:46:39,516 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro
+19:46:39,573 F: (HostnameUtils.java:73) : Detected:: retro && null
+19:46:39,613 F: (BackendPlugin.java:42) : Backend plugin started org.erlide.backend.internal.BackendManager@29dd1d7d
+19:46:39,617 I: (ErlideUIPlugin.java:156) : Starting UI Thread[Worker-2,5,main]
+19:46:39,729 I: (ErlideUIPlugin.java:191) : Started UI
+19:46:39,751 F: (ModelActivator.java:19) : Starting Erlang model api
+19:46:39,757 F: (ModelPlugin.java:35) : Starting Erlang model
+19:46:39,758 F: (ModelPlugin.java:38) : Started model
+19:46:39,774 F: (BackendFactory.java:44) : Create ide backend 17.0.0
+19:46:39,775 F: (BackendFactory.java:76) : Create backend 1da34_t0m_d4be1a_erlide
+19:46:39,815 F: (ErlRuntime.java:411) : Runtime 1da34_t0m_d4be1a_erlide@retro starting
+19:46:39,816 F: (ManagedErlRuntime.java:56) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 1da34_t0m_d4be1a_erlide@retro, -setcookie, erlide] *** /Users/t0m/Projects/workspace
+19:46:40,059 F: (ErlRuntime.java:273) : using cookie 'erlide...'6 (info: 'erlide')
+19:46:40,068 F: (ErlRuntime.java:278) : 1da34_t0m_d4be1a_erlide@retro: waiting connection to peer...
+19:46:41,068 F: (ErlRuntime.java:416) : Runtime 1da34_t0m_d4be1a_erlide@retro running
+19:46:41,346 F: (LogEventHandler.java:27) : info: {"Monitoring java node",jerlide_2d4bf38@retro}
+19:46:41,348 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+19:46:41,756 F: (ModelActivator.java:31) : Started model api
+00:00:00,002 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+00:46:48,055 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+01:46:32,021 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+02:00:47,497 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+02:28:23,291 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+03:01:37,106 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+03:51:39,374 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+04:15:03,039 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+04:38:27,480 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+04:54:25,403 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+05:52:40,663 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+06:15:03,203 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***

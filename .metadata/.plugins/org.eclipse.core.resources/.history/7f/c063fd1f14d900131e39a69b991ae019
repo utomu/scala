@@ -1,0 +1,65 @@
+object test {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+
+ 
+ 
+  def sum(money:Int,l:List[Int], denom:List[Int]):Int ={
+  	var s:Int = 0
+  	for (i:Int <- l.indices){
+  		s = s + l(i)*denom(i)
+  	}
+  	s
+  	}                                         //> sum: (money: Int, l: List[Int], denom: List[Int])Int
+  	
+   	
+ def change(money:Int,denom:List[Int]){
+  	def counter = List.fill(denom.size)(0)
+  	def r = Range(0,money)
+  	for (x <- counter.indices){
+  		for (y<-r){
+  			def p = counter.updated(x,y)
+  			if (sum(money,p,denom) == money){
+  				println(p)
+  			}
+  		}
+  	}
+  }                                               //> change: (money: Int, denom: List[Int])Unit
+ 
+  def comb(max:Int,size:Int){
+  	var counter = List.fill(size)(0)
+  	var upd = List(counter)
+  	for (x <- counter.indices){
+  		for (y<-Range(0,max+1)){
+  			def p = upd.updated(x,y)
+  			println(p)
+  		}
+  	}
+  }                                               //> comb: (max: Int, size: Int)Unit
+ 
+ 
+ 
+ change(10,List(1,1))
+ comb(4,3)                                        //> List(0)
+                                                  //| List(1)
+                                                  //| List(2)
+                                                  //| List(3)
+                                                  //| List(4)
+                                                  //| java.lang.UnsupportedOperationException: empty.tail
+                                                  //| 	at scala.collection.TraversableLike$class.tail(TraversableLike.scala:445
+                                                  //| )
+                                                  //| 	at scala.collection.SeqLike$$anon$2.tail(SeqLike.scala:635)
+                                                  //| 	at scala.collection.SeqLike$class.updated(SeqLike.scala:516)
+                                                  //| 	at scala.collection.AbstractSeq.updated(Seq.scala:40)
+                                                  //| 	at test$$anonfun$main$1$$anonfun$comb$1$1$$anonfun$apply$mcVI$sp$2.p$2(t
+                                                  //| est.scala:33)
+                                                  //| 	at test$$anonfun$main$1$$anonfun$comb$1$1$$anonfun$apply$mcVI$sp$2.apply
+                                                  //| $mcVI$sp(test.scala:34)
+                                                  //| 	at test$$anonfun$main$1$$anonfun$comb$1$1$$anonfun$apply$mcVI$sp$2.apply
+                                                  //| (test.scala:32)
+                                                  //| 	at test$$anonfun$main$1$$anonfun$comb$1$1$$anonfun$apply$mcVI$sp$2.apply
+                                                  //| (test.scala:32)
+                                                  //| 	at scala.collection.immutable.Range.foreach(Range.scala:141)
+                                                  //| 	at test$$anonfun$main$1$$anonfun$comb$1$1.apply$mcVI$sp(test.scala:32)
+                                                  //| 	at test$$anonfun$main$1$$anonfun$comb$1$1.apply(test.scala:31)
+
+}

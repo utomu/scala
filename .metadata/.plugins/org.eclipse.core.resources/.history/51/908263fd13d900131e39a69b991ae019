@@ -1,0 +1,44 @@
+object test {
+  println("Welcome to the Scala worksheet")
+
+ 
+ 
+  def sum(money:Int,l:List[Int], denom:List[Int]):Int ={
+  	var s:Int = 0
+  	for (i:Int <- l.indices){
+  		s = s + l(i)*denom(i)
+  	}
+  	s
+  	}
+  	
+   	
+ def change(money:Int,denom:List[Int]){
+  	def counter = List.fill(denom.size)(0)
+  	def r = Range(0,money)
+  	for (x <- counter.indices){
+  		for (y<-r){
+  			def p = counter.updated(x,y)
+  			if (sum(money,p,denom) == money){
+  				println(p)
+  			}
+  		}
+  	}
+  }
+ 
+  def comb(max:Int,size:Int){
+  	var counter = List.fill(size)(0)
+  	var upd = List(counter)
+  	for (x <- counter.indices){
+  		for (y<-Range(0,max+1)){
+  			def p = upd.updated(x,y)
+  			println(p)
+  		}
+  	}
+  }
+ 
+ 
+ 
+ change(10,List(1,1))
+ comb(4,3)
+
+}

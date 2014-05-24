@@ -1,0 +1,1793 @@
+2014-03-17 19:57:43,854 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,856 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,856 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,856 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,857 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,857 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,858 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,858 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,858 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,859 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-17 19:57:43,859 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 21:24:14,994 ERROR [Worker-2] - System.err - 21:24:14,990 F: (BackendPlugin.java:34) : Backend plugin starting
+2014-04-25 21:24:15,023 ERROR [Worker-2] - System.err - 21:24:15,023 I: (ErlangCore.java:60) : Erlide log is in /Users/t0m/Projects/workspace
+2014-04-25 21:24:15,028 ERROR [Worker-2] - System.err - 21:24:15,028 I: (ErlangCore.java:66) : Starting CORE Thread[Worker-2,5,main]
+2014-04-25 21:24:15,033 ERROR [Worker-2] - System.err - 21:24:15,033 I: (ErlangCore.java:75) : *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII)
+2014-04-25 21:24:15,053 ERROR [Worker-2] - System.err - 21:24:15,053 I: (ErlangCore.java:82) : Started CORE
+2014-04-25 21:24:15,540 ERROR [Worker-2] - System.err - 21:24:15,540 F: (ErlangHostnameRetriever.java:40) : Test long hostname: retro.hsd1.nj.comcast.net.
+2014-04-25 21:24:17,533 ERROR [Worker-2] - System.err - 21:24:17,533 W: (ErlangHostnameRetriever.java:46) : Can't use retro.hsd1.nj.comcast.net. as long name
+2014-04-25 21:24:17,838 ERROR [Worker-2] - System.err - 21:24:17,838 F: (ErlangHostnameRetriever.java:40) : Test long hostname: 10.0.1.202
+2014-04-25 21:24:18,852 ERROR [Worker-2] - System.err - 21:24:18,850 W: (ErlangHostnameRetriever.java:46) : Can't use 10.0.1.202 as long name
+2014-04-25 21:24:19,125 ERROR [Worker-2] - System.err - 21:24:19,125 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro
+2014-04-25 21:24:20,156 ERROR [Worker-2] - System.err - 21:24:20,155 W: (ErlangHostnameRetriever.java:46) : Can't use retro as short name
+2014-04-25 21:24:20,447 ERROR [Worker-2] - System.err - 21:24:20,447 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro.local
+2014-04-25 21:24:21,456 ERROR [Worker-2] - System.err - 21:24:21,456 W: (ErlangHostnameRetriever.java:46) : Can't use retro.local as short name
+2014-04-25 21:24:21,456 ERROR [Worker-2] - System.err - 21:24:21,456 F: (HostnameUtils.java:73) : Detected:: null && null
+2014-04-25 21:24:21,479 ERROR [Worker-2] - System.err - 21:24:21,479 F: (BackendPlugin.java:42) : Backend plugin started org.erlide.backend.internal.BackendManager@6073333e
+2014-04-25 21:24:21,484 ERROR [Worker-2] - System.err - 21:24:21,484 I: (ErlideUIPlugin.java:156) : Starting UI Thread[Worker-2,5,main]
+2014-04-25 21:24:21,567 ERROR [Worker-2] - System.err - 21:24:21,567 I: (ErlideUIPlugin.java:191) : Started UI
+2014-04-25 21:24:21,579 ERROR [Worker-2] - System.err - 21:24:21,579 F: (ModelActivator.java:19) : Starting Erlang model api
+2014-04-25 21:24:21,584 ERROR [Worker-2] - System.err - 21:24:21,584 F: (ModelPlugin.java:35) : Starting Erlang model
+2014-04-25 21:24:21,585 ERROR [Worker-2] - System.err - 21:24:21,585 F: (ModelPlugin.java:38) : Started model
+2014-04-25 21:24:21,594 ERROR [Worker-2] - System.err - 21:24:21,594 F: (BackendFactory.java:44) : Create ide backend 17.0.0
+2014-04-25 21:24:21,595 ERROR [Worker-2] - System.err - 21:24:21,595 F: (BackendFactory.java:76) : Create backend 1da34_t0m_a213d7_erlide
+2014-04-25 21:24:21,626 ERROR [ManagedErlRuntime 1da34_t0m_a213d7_erlide@null] - System.err - 21:24:21,623 F: (ErlRuntime.java:411) : Runtime 1da34_t0m_a213d7_erlide@null starting
+2014-04-25 21:24:21,628 ERROR [ManagedErlRuntime 1da34_t0m_a213d7_erlide@null] - System.err - 21:24:21,624 F: (ManagedErlRuntime.java:56) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 1da34_t0m_a213d7_erlide@null, -setcookie, erlide] *** /Users/t0m/Projects/workspace
+2014-04-25 21:24:21,848 ERROR [ManagedErlRuntime 1da34_t0m_a213d7_erlide@null] - System.err - 21:24:21,848 F: (ErlRuntime.java:273) : using cookie 'erlide...'6 (info: 'erlide')
+2014-04-25 21:24:21,856 ERROR [ManagedErlRuntime 1da34_t0m_a213d7_erlide@null] - System.err - 21:24:21,856 F: (ErlRuntime.java:278) : 1da34_t0m_a213d7_erlide@null: waiting connection to peer...
+2014-04-25 21:24:36,952 ERROR [ManagedErlRuntime 1da34_t0m_a213d7_erlide@null] - System.err - 21:24:36,952 S: (ErlRuntime.java:348) : error starting code server for 1da34_t0m_a213d7_erlide@null: timeout in erlang:whereis/1
+2014-04-25 21:24:36,953 ERROR [ManagedErlRuntime 1da34_t0m_a213d7_erlide@null] - System.err - 21:24:36,952 S: (ErlRuntime.java:91) : Could not connect to 1da34_t0m_a213d7_erlide@null! Please check runtime settings.
+2014-04-25 21:24:36,954 ERROR [ManagedErlRuntime 1da34_t0m_a213d7_erlide@null] - System.err - 21:24:36,954 F: (ErlRuntime.java:416) : Runtime 1da34_t0m_a213d7_erlide@null running
+2014-04-25 21:25:21,443 ERROR [Worker-3] - System.err - 21:25:21,440 F: (BackendPlugin.java:34) : Backend plugin starting
+2014-04-25 21:25:21,468 ERROR [Worker-3] - System.err - 21:25:21,468 I: (ErlangCore.java:60) : Erlide log is in /Users/t0m/Projects/workspace
+2014-04-25 21:25:21,473 ERROR [Worker-3] - System.err - 21:25:21,472 I: (ErlangCore.java:66) : Starting CORE Thread[Worker-3,5,main]
+2014-04-25 21:25:21,475 ERROR [Worker-3] - System.err - 21:25:21,475 I: (ErlangCore.java:75) : *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII)
+2014-04-25 21:25:21,486 ERROR [Worker-3] - System.err - 21:25:21,486 I: (ErlangCore.java:82) : Started CORE
+2014-04-25 21:25:21,778 ERROR [Worker-3] - System.err - 21:25:21,778 F: (ErlangHostnameRetriever.java:40) : Test long hostname: retro.hsd1.nj.comcast.net.
+2014-04-25 21:25:22,822 ERROR [Worker-3] - System.err - 21:25:22,821 W: (ErlangHostnameRetriever.java:46) : Can't use retro.hsd1.nj.comcast.net. as long name
+2014-04-25 21:25:23,089 ERROR [Worker-3] - System.err - 21:25:23,088 F: (ErlangHostnameRetriever.java:40) : Test long hostname: 10.0.1.202
+2014-04-25 21:25:24,097 ERROR [Worker-3] - System.err - 21:25:24,097 W: (ErlangHostnameRetriever.java:46) : Can't use 10.0.1.202 as long name
+2014-04-25 21:25:24,362 ERROR [Worker-3] - System.err - 21:25:24,362 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro
+2014-04-25 21:25:25,373 ERROR [Worker-3] - System.err - 21:25:25,372 W: (ErlangHostnameRetriever.java:46) : Can't use retro as short name
+2014-04-25 21:25:25,645 ERROR [Worker-3] - System.err - 21:25:25,645 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro.local
+2014-04-25 21:25:26,654 ERROR [Worker-3] - System.err - 21:25:26,653 W: (ErlangHostnameRetriever.java:46) : Can't use retro.local as short name
+2014-04-25 21:25:26,655 ERROR [Worker-3] - System.err - 21:25:26,655 F: (HostnameUtils.java:73) : Detected:: null && null
+2014-04-25 21:25:26,678 ERROR [Worker-3] - System.err - 21:25:26,677 F: (BackendPlugin.java:42) : Backend plugin started org.erlide.backend.internal.BackendManager@1c196356
+2014-04-25 21:25:26,681 ERROR [Worker-3] - System.err - 21:25:26,681 I: (ErlideUIPlugin.java:156) : Starting UI Thread[Worker-3,5,main]
+2014-04-25 21:25:26,740 ERROR [Worker-3] - System.err - 21:25:26,740 I: (ErlideUIPlugin.java:191) : Started UI
+2014-04-25 21:25:26,748 ERROR [Worker-3] - System.err - 21:25:26,748 F: (ModelActivator.java:19) : Starting Erlang model api
+2014-04-25 21:25:26,752 ERROR [Worker-3] - System.err - 21:25:26,751 F: (ModelPlugin.java:35) : Starting Erlang model
+2014-04-25 21:25:26,752 ERROR [Worker-3] - System.err - 21:25:26,752 F: (ModelPlugin.java:38) : Started model
+2014-04-25 21:25:26,764 ERROR [Worker-3] - System.err - 21:25:26,764 F: (BackendFactory.java:44) : Create ide backend 17.0.0
+2014-04-25 21:25:26,765 ERROR [Worker-3] - System.err - 21:25:26,765 F: (BackendFactory.java:76) : Create backend 1da34_t0m_a31268_erlide
+2014-04-25 21:25:26,788 ERROR [ManagedErlRuntime 1da34_t0m_a31268_erlide@null] - System.err - 21:25:26,786 F: (ManagedErlRuntime.java:56) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 1da34_t0m_a31268_erlide@null, -setcookie, erlide] *** /Users/t0m/Projects/workspace
+2014-04-25 21:25:26,788 ERROR [ManagedErlRuntime 1da34_t0m_a31268_erlide@null] - System.err - 21:25:26,786 F: (ErlRuntime.java:411) : Runtime 1da34_t0m_a31268_erlide@null starting
+2014-04-25 21:25:27,016 ERROR [ManagedErlRuntime 1da34_t0m_a31268_erlide@null] - System.err - 21:25:27,015 F: (ErlRuntime.java:273) : using cookie 'erlide...'6 (info: 'erlide')
+2014-04-25 21:25:27,024 ERROR [ManagedErlRuntime 1da34_t0m_a31268_erlide@null] - System.err - 21:25:27,023 F: (ErlRuntime.java:278) : 1da34_t0m_a31268_erlide@null: waiting connection to peer...
+2014-04-25 21:25:42,454 ERROR [ManagedErlRuntime 1da34_t0m_a31268_erlide@null] - System.err - 21:25:42,454 S: (ErlRuntime.java:348) : error starting code server for 1da34_t0m_a31268_erlide@null: timeout in erlang:whereis/1
+2014-04-25 21:25:42,455 ERROR [ManagedErlRuntime 1da34_t0m_a31268_erlide@null] - System.err - 21:25:42,455 S: (ErlRuntime.java:91) : Could not connect to 1da34_t0m_a31268_erlide@null! Please check runtime settings.
+2014-04-25 21:25:42,457 ERROR [ManagedErlRuntime 1da34_t0m_a31268_erlide@null] - System.err - 21:25:42,456 F: (ErlRuntime.java:416) : Runtime 1da34_t0m_a31268_erlide@null running
+2014-04-25 21:25:51,577 ERROR [Worker-3] - System.err - 21:25:51,576 S: (RuntimeUtils.java:28) : timeout in file:read_file_info/1
+org.erlide.runtime.rpc.RpcTimeoutException: timeout in file:read_file_info/1
+	at org.erlide.runtime.internal.rpc.RpcSite.getRpcResult(RpcSite.java:383)
+	at org.erlide.runtime.internal.rpc.RpcFutureImpl.checkedGet(RpcFutureImpl.java:98)
+	at org.erlide.runtime.internal.rpc.RpcFutureImpl.checkedGet(RpcFutureImpl.java:1)
+	at org.erlide.runtime.internal.rpc.RpcSite.call(RpcSite.java:156)
+	at org.erlide.runtime.internal.rpc.RpcSite.call(RpcSite.java:176)
+	at org.erlide.runtime.internal.rpc.RpcSite.call(RpcSite.java:251)
+	at org.erlide.runtime.api.RuntimeUtils.isAccessibleDir(RuntimeUtils.java:15)
+	at org.erlide.backend.internal.CodeManager.register(CodeManager.java:78)
+	at org.erlide.backend.internal.Backend.registerCodeBundle(Backend.java:144)
+	at org.erlide.backend.internal.Backend.initialize(Backend.java:330)
+	at org.erlide.backend.internal.BackendFactory.createBackend(BackendFactory.java:86)
+	at org.erlide.backend.internal.BackendFactory.createIdeBackend(BackendFactory.java:45)
+	at org.erlide.backend.internal.BackendManager.getIdeBackend(BackendManager.java:167)
+	at org.erlide.backend.internal.BackendProvider.get(BackendProvider.java:15)
+	at org.erlide.engine.internal.DefaultErlangEngine.<init>(DefaultErlangEngine.java:110)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at java.lang.Class.newInstance(Class.java:374)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.erlide.util.services.ExtensionUtils.getSingletonExtension(ExtensionUtils.java:33)
+	at org.erlide.engine.ModelActivator.start(ModelActivator.java:21)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.startActivator(BundleContextImpl.java:702)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.start(BundleContextImpl.java:683)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:381)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:300)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.erlide.ui.util.ProblemsLabelDecorator.computeAdornmentFlags(ProblemsLabelDecorator.java:90)
+	at org.erlide.ui.navigator.NavigatorProblemsDecorator.computeAdornmentFlags(NavigatorProblemsDecorator.java:31)
+	at org.erlide.ui.util.ProblemsLabelDecorator.decorate(ProblemsLabelDecorator.java:191)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:263)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:371)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:331)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-04-25 21:30:00,171 ERROR [Worker-4] - System.err - 21:30:00,168 F: (BackendPlugin.java:34) : Backend plugin starting
+2014-04-25 21:30:00,187 ERROR [Worker-4] - System.err - 21:30:00,187 I: (ErlangCore.java:60) : Erlide log is in /Users/t0m/Projects/workspace
+2014-04-25 21:30:00,191 ERROR [Worker-4] - System.err - 21:30:00,190 I: (ErlangCore.java:66) : Starting CORE Thread[Worker-4,5,main]
+2014-04-25 21:30:00,193 ERROR [Worker-4] - System.err - 21:30:00,193 I: (ErlangCore.java:75) : *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII)
+2014-04-25 21:30:00,207 ERROR [Worker-4] - System.err - 21:30:00,207 I: (ErlangCore.java:82) : Started CORE
+2014-04-25 21:30:00,524 ERROR [Worker-4] - System.err - 21:30:00,524 F: (ErlangHostnameRetriever.java:40) : Test long hostname: retro.hsd1.nj.comcast.net.
+2014-04-25 21:30:01,567 ERROR [Worker-4] - System.err - 21:30:01,567 W: (ErlangHostnameRetriever.java:46) : Can't use retro.hsd1.nj.comcast.net. as long name
+2014-04-25 21:30:01,830 ERROR [Worker-4] - System.err - 21:30:01,830 F: (ErlangHostnameRetriever.java:40) : Test long hostname: 10.0.1.202
+2014-04-25 21:30:02,841 ERROR [Worker-4] - System.err - 21:30:02,841 W: (ErlangHostnameRetriever.java:46) : Can't use 10.0.1.202 as long name
+2014-04-25 21:30:03,118 ERROR [Worker-4] - System.err - 21:30:03,118 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro
+2014-04-25 21:30:03,136 ERROR [Worker-4] - System.err - 21:30:03,136 F: (HostnameUtils.java:73) : Detected:: retro && null
+2014-04-25 21:30:03,157 ERROR [Worker-4] - System.err - 21:30:03,157 F: (BackendPlugin.java:42) : Backend plugin started org.erlide.backend.internal.BackendManager@1a7d9e7b
+2014-04-25 21:30:03,159 ERROR [Worker-4] - System.err - 21:30:03,159 I: (ErlideUIPlugin.java:156) : Starting UI Thread[Worker-4,5,main]
+2014-04-25 21:30:03,210 ERROR [Worker-4] - System.err - 21:30:03,210 I: (ErlideUIPlugin.java:191) : Started UI
+2014-04-25 21:30:03,218 ERROR [Worker-4] - System.err - 21:30:03,218 F: (ModelActivator.java:19) : Starting Erlang model api
+2014-04-25 21:30:03,221 ERROR [Worker-4] - System.err - 21:30:03,221 F: (ModelPlugin.java:35) : Starting Erlang model
+2014-04-25 21:30:03,221 ERROR [Worker-4] - System.err - 21:30:03,221 F: (ModelPlugin.java:38) : Started model
+2014-04-25 21:30:03,230 ERROR [Worker-4] - System.err - 21:30:03,229 F: (BackendFactory.java:44) : Create ide backend 17.0.0
+2014-04-25 21:30:03,230 ERROR [Worker-4] - System.err - 21:30:03,230 F: (BackendFactory.java:76) : Create backend 1da34_t0m_a74a5b_erlide
+2014-04-25 21:30:03,250 ERROR [ManagedErlRuntime 1da34_t0m_a74a5b_erlide@retro] - System.err - 21:30:03,248 F: (ErlRuntime.java:411) : Runtime 1da34_t0m_a74a5b_erlide@retro starting
+2014-04-25 21:30:03,251 ERROR [ManagedErlRuntime 1da34_t0m_a74a5b_erlide@retro] - System.err - 21:30:03,249 F: (ManagedErlRuntime.java:56) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 1da34_t0m_a74a5b_erlide@retro, -setcookie, erlide] *** /Users/t0m/Projects/workspace
+2014-04-25 21:30:03,478 ERROR [ManagedErlRuntime 1da34_t0m_a74a5b_erlide@retro] - System.err - 21:30:03,477 F: (ErlRuntime.java:273) : using cookie 'erlide...'6 (info: 'erlide')
+2014-04-25 21:30:03,486 ERROR [ManagedErlRuntime 1da34_t0m_a74a5b_erlide@retro] - System.err - 21:30:03,485 F: (ErlRuntime.java:278) : 1da34_t0m_a74a5b_erlide@retro: waiting connection to peer...
+2014-04-25 21:30:03,709 ERROR [ManagedErlRuntime 1da34_t0m_a74a5b_erlide@retro] - System.err - 21:30:03,709 F: (ErlRuntime.java:416) : Runtime 1da34_t0m_a74a5b_erlide@retro running
+2014-04-25 21:30:03,974 ERROR [ManagedErlRuntime 1da34_t0m_a74a5b_erlide@retro] - System.err - 21:30:03,973 F: (LogEventHandler.java:27) : info: {"Monitoring java node",jerlide_ba74b53@retro}
+2014-04-25 21:30:03,974 ERROR [ManagedErlRuntime 1da34_t0m_a74a5b_erlide@retro] - System.err - 21:30:03,974 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+2014-04-25 21:30:04,386 ERROR [Worker-4] - System.err - 21:30:04,386 F: (ModelActivator.java:31) : Started model api
+2014-04-25 23:05:39,521 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,522 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,523 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,523 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,524 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,524 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,524 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,525 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,525 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,525 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:39,525 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-25 23:05:42,133 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:06:02,965 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:07:28,452 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:07:36,121 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:10:16,881 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:11:03,908 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:11:16,449 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:11:33,883 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:11:40,409 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-04-25 23:16:51,423 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error in Scala compiler
+org.eclipse.core.runtime.CoreException: I/O exception
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2684)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: /Users/t0m/Projects/workspace/example/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:215)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:145)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:159)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2677)
+	... 34 more
+2014-04-25 23:17:00,164 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error in Scala compiler
+org.eclipse.core.runtime.CoreException: I/O exception
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2648)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.util.zip.ZipException
+	... 35 more
+2014-04-26 00:17:28,983 ERROR [Worker-18] - System.err - 00:17:28,983 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-04-26 07:05:30,996 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error in Scala compiler
+org.eclipse.core.runtime.CoreException: I/O exception
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2648)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.util.zip.ZipException
+	... 35 more
+2014-04-27 00:17:28,985 ERROR [Worker-147] - System.err - 00:17:28,985 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-04-27 18:51:19,829 ERROR [ManagedErlRuntime 1da34_t0m_a74a5b_erlide@retro] - System.err - 18:51:19,828 F: (ErlRuntime.java:382) : Runtime 1da34_t0m_a74a5b_erlide@retro terminated
+2014-05-10 18:51:45,511 ERROR [Worker-0] - System.err - 18:51:45,506 F: (BackendPlugin.java:34) : Backend plugin starting
+2014-05-10 18:51:45,548 ERROR [Worker-0] - System.err - 18:51:45,548 I: (ErlangCore.java:60) : Erlide log is in /Users/t0m/Projects/workspace
+2014-05-10 18:51:45,552 ERROR [Worker-0] - System.err - 18:51:45,552 I: (ErlangCore.java:66) : Starting CORE Thread[Worker-0,5,main]
+2014-05-10 18:51:45,556 ERROR [Worker-0] - System.err - 18:51:45,556 I: (ErlangCore.java:75) : *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (UTF-8)
+2014-05-10 18:51:45,558 ERROR [Worker-0] - System.err - 18:51:45,558 I: (ErlangCore.java:82) : Started CORE
+2014-05-10 18:51:46,073 ERROR [Worker-0] - System.err - 18:51:46,073 F: (ErlangHostnameRetriever.java:40) : Test long hostname: retro.hsd1.nj.comcast.net.
+2014-05-10 18:51:47,169 ERROR [Worker-0] - System.err - 18:51:47,169 W: (ErlangHostnameRetriever.java:46) : Can't use retro.hsd1.nj.comcast.net. as long name
+2014-05-10 18:51:47,819 ERROR [Worker-0] - System.err - 18:51:47,819 F: (ErlangHostnameRetriever.java:40) : Test long hostname: 10.0.1.202
+2014-05-10 18:51:49,105 ERROR [Worker-0] - System.err - 18:51:49,105 W: (ErlangHostnameRetriever.java:46) : Can't use 10.0.1.202 as long name
+2014-05-10 18:51:49,458 ERROR [Worker-0] - System.err - 18:51:49,458 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro
+2014-05-10 18:51:49,509 ERROR [Worker-0] - System.err - 18:51:49,509 F: (HostnameUtils.java:73) : Detected:: retro && null
+2014-05-10 18:51:49,550 ERROR [Worker-0] - System.err - 18:51:49,550 F: (BackendPlugin.java:42) : Backend plugin started org.erlide.backend.internal.BackendManager@37113944
+2014-05-10 18:51:49,558 ERROR [Worker-0] - System.err - 18:51:49,558 I: (ErlideUIPlugin.java:156) : Starting UI Thread[Worker-0,5,main]
+2014-05-10 18:51:49,695 ERROR [Worker-0] - System.err - 18:51:49,695 I: (ErlideUIPlugin.java:191) : Started UI
+2014-05-10 18:51:49,707 ERROR [Worker-0] - System.err - 18:51:49,707 F: (ModelActivator.java:19) : Starting Erlang model api
+2014-05-10 18:51:49,712 ERROR [Worker-0] - System.err - 18:51:49,711 F: (ModelPlugin.java:35) : Starting Erlang model
+2014-05-10 18:51:49,712 ERROR [Worker-0] - System.err - 18:51:49,712 F: (ModelPlugin.java:38) : Started model
+2014-05-10 18:51:49,726 ERROR [Worker-0] - System.err - 18:51:49,726 F: (BackendFactory.java:44) : Create ide backend 17.0.0
+2014-05-10 18:51:49,727 ERROR [Worker-0] - System.err - 18:51:49,726 F: (BackendFactory.java:76) : Create backend 1da34_t0m_55d25c_erlide
+2014-05-10 18:51:49,764 ERROR [ManagedErlRuntime 1da34_t0m_55d25c_erlide@retro] - System.err - 18:51:49,762 F: (ErlRuntime.java:411) : Runtime 1da34_t0m_55d25c_erlide@retro starting
+2014-05-10 18:51:49,765 ERROR [ManagedErlRuntime 1da34_t0m_55d25c_erlide@retro] - System.err - 18:51:49,763 F: (ManagedErlRuntime.java:56) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 1da34_t0m_55d25c_erlide@retro, -setcookie, erlide] *** /Users/t0m/Projects/workspace
+2014-05-10 18:51:50,016 ERROR [ManagedErlRuntime 1da34_t0m_55d25c_erlide@retro] - System.err - 18:51:50,016 F: (ErlRuntime.java:273) : using cookie 'erlide...'6 (info: 'erlide')
+2014-05-10 18:51:50,028 ERROR [ManagedErlRuntime 1da34_t0m_55d25c_erlide@retro] - System.err - 18:51:50,028 F: (ErlRuntime.java:278) : 1da34_t0m_55d25c_erlide@retro: waiting connection to peer...
+2014-05-10 18:51:50,249 ERROR [ManagedErlRuntime 1da34_t0m_55d25c_erlide@retro] - System.err - 18:51:50,248 F: (ErlRuntime.java:416) : Runtime 1da34_t0m_55d25c_erlide@retro running
+2014-05-10 18:51:50,543 ERROR [ManagedErlRuntime 1da34_t0m_55d25c_erlide@retro] - System.err - 18:51:50,543 F: (LogEventHandler.java:27) : info: {"Monitoring java node",jerlide_855d37e@retro}
+2014-05-10 18:51:50,544 ERROR [ManagedErlRuntime 1da34_t0m_55d25c_erlide@retro] - System.err - 18:51:50,544 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+2014-05-10 18:51:50,958 ERROR [Worker-0] - System.err - 18:51:50,958 F: (ModelActivator.java:31) : Started model api
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - Java Model Exception: Java Model Status [example does not exist]
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2309)
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1908)
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1930)
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:138)
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.jdkPaths(ScalaProject.scala:80)
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:118)
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+2014-05-10 18:52:03,818 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.setupCompilerClasspath(ScalaProject.scala:509)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.initializeCompilerSettings(ScalaProject.scala:495)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:99)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:95)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:30)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.performSemanticHighlighting(Presenter.scala:145)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.run(Presenter.scala:114)
+2014-05-10 18:52:03,819 ERROR [Worker-5] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-05-10 18:52:03,823 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Java Model Exception: Java Model Status [example does not exist]
+2014-05-10 18:52:53,371 ERROR [ManagedErlRuntime 1da34_t0m_55d25c_erlide@retro] - System.err - 18:52:53,371 F: (ErlRuntime.java:382) : Runtime 1da34_t0m_55d25c_erlide@retro terminated
+2014-05-10 18:54:27,811 ERROR [Worker-3] - System.err - 18:54:27,807 F: (BackendPlugin.java:34) : Backend plugin starting
+2014-05-10 18:54:27,839 ERROR [Worker-3] - System.err - 18:54:27,838 I: (ErlangCore.java:60) : Erlide log is in /Users/t0m/Projects/workspace
+2014-05-10 18:54:27,842 ERROR [Worker-3] - System.err - 18:54:27,842 I: (ErlangCore.java:66) : Starting CORE Thread[Worker-3,5,main]
+2014-05-10 18:54:27,845 ERROR [Worker-3] - System.err - 18:54:27,845 I: (ErlangCore.java:75) : *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII)
+2014-05-10 18:54:27,846 ERROR [Worker-3] - System.err - 18:54:27,846 I: (ErlangCore.java:82) : Started CORE
+2014-05-10 18:54:28,315 ERROR [Worker-3] - System.err - 18:54:28,314 F: (ErlangHostnameRetriever.java:40) : Test long hostname: retro.hsd1.nj.comcast.net.
+2014-05-10 18:54:29,370 ERROR [Worker-3] - System.err - 18:54:29,370 W: (ErlangHostnameRetriever.java:46) : Can't use retro.hsd1.nj.comcast.net. as long name
+2014-05-10 18:54:29,647 ERROR [Worker-3] - System.err - 18:54:29,647 F: (ErlangHostnameRetriever.java:40) : Test long hostname: 10.0.1.202
+2014-05-10 18:54:30,657 ERROR [Worker-3] - System.err - 18:54:30,656 W: (ErlangHostnameRetriever.java:46) : Can't use 10.0.1.202 as long name
+2014-05-10 18:54:30,931 ERROR [Worker-3] - System.err - 18:54:30,930 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro
+2014-05-10 18:54:30,985 ERROR [Worker-3] - System.err - 18:54:30,984 F: (HostnameUtils.java:73) : Detected:: retro && null
+2014-05-10 18:54:31,025 ERROR [Worker-3] - System.err - 18:54:31,025 F: (BackendPlugin.java:42) : Backend plugin started org.erlide.backend.internal.BackendManager@36d8491b
+2014-05-10 18:54:31,030 ERROR [Worker-3] - System.err - 18:54:31,030 I: (ErlideUIPlugin.java:156) : Starting UI Thread[Worker-3,5,main]
+2014-05-10 18:54:31,132 ERROR [Worker-3] - System.err - 18:54:31,132 I: (ErlideUIPlugin.java:191) : Started UI
+2014-05-10 18:54:31,141 ERROR [Worker-3] - System.err - 18:54:31,141 F: (ModelActivator.java:19) : Starting Erlang model api
+2014-05-10 18:54:31,144 ERROR [Worker-3] - System.err - 18:54:31,144 F: (ModelPlugin.java:35) : Starting Erlang model
+2014-05-10 18:54:31,145 ERROR [Worker-3] - System.err - 18:54:31,145 F: (ModelPlugin.java:38) : Started model
+2014-05-10 18:54:31,158 ERROR [Worker-3] - System.err - 18:54:31,158 F: (BackendFactory.java:44) : Create ide backend 17.0.0
+2014-05-10 18:54:31,158 ERROR [Worker-3] - System.err - 18:54:31,158 F: (BackendFactory.java:76) : Create backend 1da34_t0m_5848f4_erlide
+2014-05-10 18:54:31,190 ERROR [ManagedErlRuntime 1da34_t0m_5848f4_erlide@retro] - System.err - 18:54:31,188 F: (ManagedErlRuntime.java:56) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 1da34_t0m_5848f4_erlide@retro, -setcookie, erlide] *** /Users/t0m/Projects/workspace
+2014-05-10 18:54:31,191 ERROR [ManagedErlRuntime 1da34_t0m_5848f4_erlide@retro] - System.err - 18:54:31,188 F: (ErlRuntime.java:411) : Runtime 1da34_t0m_5848f4_erlide@retro starting
+2014-05-10 18:54:31,415 ERROR [ManagedErlRuntime 1da34_t0m_5848f4_erlide@retro] - System.err - 18:54:31,414 F: (ErlRuntime.java:273) : using cookie 'erlide...'6 (info: 'erlide')
+2014-05-10 18:54:31,423 ERROR [ManagedErlRuntime 1da34_t0m_5848f4_erlide@retro] - System.err - 18:54:31,423 F: (ErlRuntime.java:278) : 1da34_t0m_5848f4_erlide@retro: waiting connection to peer...
+2014-05-10 18:54:31,639 ERROR [ManagedErlRuntime 1da34_t0m_5848f4_erlide@retro] - System.err - 18:54:31,638 F: (ErlRuntime.java:416) : Runtime 1da34_t0m_5848f4_erlide@retro running
+2014-05-10 18:54:31,910 ERROR [ManagedErlRuntime 1da34_t0m_5848f4_erlide@retro] - System.err - 18:54:31,910 F: (LogEventHandler.java:27) : info: {"Monitoring java node",jerlide_85849f5@retro}
+2014-05-10 18:54:31,911 ERROR [ManagedErlRuntime 1da34_t0m_5848f4_erlide@retro] - System.err - 18:54:31,911 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+2014-05-10 18:54:32,324 ERROR [Worker-3] - System.err - 18:54:32,324 F: (ModelActivator.java:31) : Started model api
+2014-05-10 18:54:38,411 ERROR [Worker-4] - System.err - Java Model Exception: Java Model Status [example does not exist]
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2309)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1908)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1930)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:138)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.jdkPaths(ScalaProject.scala:80)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:118)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.setupCompilerClasspath(ScalaProject.scala:509)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.initializeCompilerSettings(ScalaProject.scala:495)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:99)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:95)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:30)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+2014-05-10 18:54:38,412 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+2014-05-10 18:54:38,413 ERROR [Worker-4] - System.err - at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+2014-05-10 18:54:38,413 ERROR [Worker-4] - System.err - at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+2014-05-10 18:54:38,413 ERROR [Worker-4] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.performSemanticHighlighting(Presenter.scala:145)
+2014-05-10 18:54:38,413 ERROR [Worker-4] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.run(Presenter.scala:114)
+2014-05-10 18:54:38,413 ERROR [Worker-4] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-05-10 18:54:38,417 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Java Model Exception: Java Model Status [example does not exist]
+2014-05-10 19:10:48,940  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2014-05-10 19:10:49,143  WARN [Worker-4] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2014-05-10 19:37:21,075 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,077 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,077 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,078 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,079 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,079 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,080 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,080 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,081 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,081 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:21,081 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-10 19:37:23,459 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-10 19:37:26,940 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-10 19:38:43,013 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-10 19:41:56,606 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-10 19:43:01,727 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-10 19:43:19,298 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-10 19:49:18,120 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-11 00:18:16,193 ERROR [Worker-15] - System.err - 00:18:16,193 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-11 11:06:59,363 ERROR [ManagedErlRuntime 1da34_t0m_5848f4_erlide@retro] - System.err - 11:06:59,362 F: (ErlRuntime.java:382) : Runtime 1da34_t0m_5848f4_erlide@retro terminated
+2014-05-12 19:46:35,278 ERROR [Worker-2] - System.err - 19:46:35,273 F: (BackendPlugin.java:34) : Backend plugin starting
+2014-05-12 19:46:35,330 ERROR [Worker-2] - System.err - 19:46:35,330 I: (ErlangCore.java:60) : Erlide log is in /Users/t0m/Projects/workspace
+2014-05-12 19:46:35,335 ERROR [Worker-2] - System.err - 19:46:35,335 I: (ErlangCore.java:66) : Starting CORE Thread[Worker-2,5,main]
+2014-05-12 19:46:35,341 ERROR [Worker-2] - System.err - 19:46:35,341 I: (ErlangCore.java:75) : *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII)
+2014-05-12 19:46:35,344 ERROR [Worker-2] - System.err - 19:46:35,343 I: (ErlangCore.java:82) : Started CORE
+2014-05-12 19:46:36,178 ERROR [Worker-2] - System.err - 19:46:36,178 F: (ErlangHostnameRetriever.java:40) : Test long hostname: retro.hsd1.nj.comcast.net.
+2014-05-12 19:46:37,347 ERROR [Worker-2] - System.err - 19:46:37,347 W: (ErlangHostnameRetriever.java:46) : Can't use retro.hsd1.nj.comcast.net. as long name
+2014-05-12 19:46:38,064 ERROR [Worker-2] - System.err - 19:46:38,064 F: (ErlangHostnameRetriever.java:40) : Test long hostname: 10.0.1.202
+2014-05-12 19:46:39,073 ERROR [Worker-2] - System.err - 19:46:39,072 W: (ErlangHostnameRetriever.java:46) : Can't use 10.0.1.202 as long name
+2014-05-12 19:46:39,516 ERROR [Worker-2] - System.err - 19:46:39,516 F: (ErlangHostnameRetriever.java:40) : Test short hostname: retro
+2014-05-12 19:46:39,573 ERROR [Worker-2] - System.err - 19:46:39,573 F: (HostnameUtils.java:73) : Detected:: retro && null
+2014-05-12 19:46:39,613 ERROR [Worker-2] - System.err - 19:46:39,613 F: (BackendPlugin.java:42) : Backend plugin started org.erlide.backend.internal.BackendManager@29dd1d7d
+2014-05-12 19:46:39,617 ERROR [Worker-2] - System.err - 19:46:39,617 I: (ErlideUIPlugin.java:156) : Starting UI Thread[Worker-2,5,main]
+2014-05-12 19:46:39,729 ERROR [Worker-2] - System.err - 19:46:39,729 I: (ErlideUIPlugin.java:191) : Started UI
+2014-05-12 19:46:39,752 ERROR [Worker-2] - System.err - 19:46:39,751 F: (ModelActivator.java:19) : Starting Erlang model api
+2014-05-12 19:46:39,757 ERROR [Worker-2] - System.err - 19:46:39,757 F: (ModelPlugin.java:35) : Starting Erlang model
+2014-05-12 19:46:39,758 ERROR [Worker-2] - System.err - 19:46:39,758 F: (ModelPlugin.java:38) : Started model
+2014-05-12 19:46:39,774 ERROR [Worker-2] - System.err - 19:46:39,774 F: (BackendFactory.java:44) : Create ide backend 17.0.0
+2014-05-12 19:46:39,775 ERROR [Worker-2] - System.err - 19:46:39,775 F: (BackendFactory.java:76) : Create backend 1da34_t0m_d4be1a_erlide
+2014-05-12 19:46:39,816 ERROR [ManagedErlRuntime 1da34_t0m_d4be1a_erlide@retro] - System.err - 19:46:39,815 F: (ErlRuntime.java:411) : Runtime 1da34_t0m_d4be1a_erlide@retro starting
+2014-05-12 19:46:39,817 ERROR [ManagedErlRuntime 1da34_t0m_d4be1a_erlide@retro] - System.err - 19:46:39,816 F: (ManagedErlRuntime.java:56) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 1da34_t0m_d4be1a_erlide@retro, -setcookie, erlide] *** /Users/t0m/Projects/workspace
+2014-05-12 19:46:40,059 ERROR [ManagedErlRuntime 1da34_t0m_d4be1a_erlide@retro] - System.err - 19:46:40,059 F: (ErlRuntime.java:273) : using cookie 'erlide...'6 (info: 'erlide')
+2014-05-12 19:46:40,069 ERROR [ManagedErlRuntime 1da34_t0m_d4be1a_erlide@retro] - System.err - 19:46:40,068 F: (ErlRuntime.java:278) : 1da34_t0m_d4be1a_erlide@retro: waiting connection to peer...
+2014-05-12 19:46:41,068 ERROR [ManagedErlRuntime 1da34_t0m_d4be1a_erlide@retro] - System.err - 19:46:41,068 F: (ErlRuntime.java:416) : Runtime 1da34_t0m_d4be1a_erlide@retro running
+2014-05-12 19:46:41,347 ERROR [ManagedErlRuntime 1da34_t0m_d4be1a_erlide@retro] - System.err - 19:46:41,346 F: (LogEventHandler.java:27) : info: {"Monitoring java node",jerlide_2d4bf38@retro}
+2014-05-12 19:46:41,348 ERROR [ManagedErlRuntime 1da34_t0m_d4be1a_erlide@retro] - System.err - 19:46:41,348 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+2014-05-12 19:46:41,757 ERROR [Worker-2] - System.err - 19:46:41,756 F: (ModelActivator.java:31) : Started model api
+2014-05-12 20:09:23,412 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,414 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,415 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,415 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,416 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,416 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,416 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,417 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,417 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,417 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:23,417 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-05-12 20:09:25,997 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:563)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:498)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:492)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:378)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-12 20:09:26,734 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeFilteredProposals(CompletionProposalPopup.java:1460)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$4(CompletionProposalPopup.java:1449)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$1.run(CompletionProposalPopup.java:375)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.getSelectedProposal(CompletionProposalPopup.java:869)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.verifyKey(CompletionProposalPopup.java:1332)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$InternalListener.verifyKey(ContentAssistant.java:808)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:491)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:65)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4166)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1466)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1489)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1474)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5954)
+	at org.eclipse.swt.custom.StyledText$7.handleEvent(StyledText.java:5636)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4166)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1466)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1489)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1474)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1503)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1499)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:496)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1060)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5648)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:68)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:594)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5558)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:221)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2104)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2318)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5620)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5057)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5206)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:128)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3648)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-12 20:09:27,003 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeFilteredProposals(CompletionProposalPopup.java:1460)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$4(CompletionProposalPopup.java:1449)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$1.run(CompletionProposalPopup.java:375)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.getSelectedProposal(CompletionProposalPopup.java:869)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.verifyKey(CompletionProposalPopup.java:1332)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$InternalListener.verifyKey(ContentAssistant.java:808)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:491)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:65)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4166)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1466)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1489)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1474)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5954)
+	at org.eclipse.swt.custom.StyledText$7.handleEvent(StyledText.java:5636)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4166)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1466)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1489)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1474)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1503)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1499)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:496)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1060)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5648)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:68)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:594)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5558)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:221)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2104)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2318)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5620)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5057)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5206)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:128)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3648)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-12 20:09:27,473 ERROR [main] - InnerFinder$ - InSynth synthesis failed.
+java.lang.Exception: Desired Type not found in: ch.epfl.insynth.loader.TLoader$Loader
+	at ch.epfl.insynth.loader.TLoader$Loader.load(Loader.scala:98)
+	at ch.epfl.insynth.InSynth.getSnippets(InSynth.scala:29)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:82)
+	at ch.epfl.insynth.core.completion.InnerFinder$$anonfun$apply$1.apply(InsynthCompletionProposalComputer.scala:52)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:51)
+	at ch.epfl.insynth.core.completion.InnerFinder$.apply(InsynthCompletionProposalComputer.scala:106)
+	at ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer.computeCompletionProposals(InsynthCompletionProposalComputer.scala:176)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1839)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:566)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeFilteredProposals(CompletionProposalPopup.java:1460)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$4(CompletionProposalPopup.java:1449)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$1.run(CompletionProposalPopup.java:375)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+2014-05-13 00:00:00,002 ERROR [Worker-29] - System.err - 00:00:00,002 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-14 00:46:48,444 ERROR [Worker-95] - System.err - 00:46:48,055 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-15 01:46:32,021 ERROR [Worker-210] - System.err - 01:46:32,021 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-16 02:00:47,498 ERROR [Worker-273] - System.err - 02:00:47,497 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-17 02:28:23,292 ERROR [Worker-344] - System.err - 02:28:23,291 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-18 03:01:37,419 ERROR [Worker-456] - System.err - 03:01:37,106 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-19 03:51:39,374 ERROR [Worker-561] - System.err - 03:51:39,374 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-20 04:15:03,040 ERROR [Worker-630] - System.err - 04:15:03,039 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-21 04:38:27,507 ERROR [Worker-685] - System.err - 04:38:27,480 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-22 04:54:25,439 ERROR [Worker-763] - System.err - 04:54:25,403 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-23 05:52:40,664 ERROR [Worker-874] - System.err - 05:52:40,663 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***
+2014-05-24 06:15:03,204 ERROR [Worker-948] - System.err - 06:15:03,203 I: (ErlideUIPlugin.java:221) : *** Automatically cleaning caches ***

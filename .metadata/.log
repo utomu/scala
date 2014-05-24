@@ -1,0 +1,1477 @@
+!SESSION 2013-06-29 23:16:36.314 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 23:17:36.927
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2013-06-29 23:25:51.381 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 23:26:05.938
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2013-06-29 23:27:04.958 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 23:27:16.185
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2013-06-29 23:29:58.609 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 23:30:11.425
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2013-07-03 21:27:29.028 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-07-03 21:27:38.799
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2013-09-11 19:01:42.906 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-09-11 19:05:50.722
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-03-15 22:42:57.547 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-03-15 22:43:26.411
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-03-15 22:44:45.556
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-03-15 22:44:45.556
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.556
+!MESSAGE Software being installed: InSynth Feature 1.0.0.v-2_10-201310140130-3a8068f (ch.epfl.insynth.feature.feature.group 1.0.0.v-2_10-201310140130-3a8068f)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.556
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.group 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.556
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.556
+!MESSAGE Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.jar 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.556
+!MESSAGE Scala IDE for Eclipse 3.0.1.v-2_10-201307101641-eff8147 (org.scala-ide.sdt.feature.feature.jar 3.0.1.v-2_10-201307101641-eff8147)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.556
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.557
+!MESSAGE From: InSynth Feature 1.0.0.v-2_10-201310140130-3a8068f (ch.epfl.insynth.feature.feature.group 1.0.0.v-2_10-201310140130-3a8068f)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.557
+!MESSAGE To: org.scala-ide.sdt.feature.feature.group [3.0.1.v-2_10-201307101641-eff8147]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.557
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.557
+!MESSAGE From: Scala IDE for Eclipse 3.0.1.v-2_10-201307101641-eff8147 (org.scala-ide.sdt.feature.feature.group 3.0.1.v-2_10-201307101641-eff8147)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.557
+!MESSAGE To: org.scala-ide.sdt.feature.feature.jar [3.0.1.v-2_10-201307101641-eff8147]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.557
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.557
+!MESSAGE From: Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.group 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.557
+!MESSAGE To: org.scala-ide.sdt.feature.feature.jar [3.0.2.v-2_10-201310181157-0880865]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-03-15 22:44:45.563
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-03-15 22:44:45.563
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE Software being installed: InSynth Feature 1.0.0.v-2_10-201310140130-3a8068f (ch.epfl.insynth.feature.feature.group 1.0.0.v-2_10-201310140130-3a8068f)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.group 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.563
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.jar 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE Scala IDE for Eclipse 3.0.1.v-2_10-201307101641-eff8147 (org.scala-ide.sdt.feature.feature.jar 3.0.1.v-2_10-201307101641-eff8147)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.563
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE From: InSynth Feature 1.0.0.v-2_10-201310140130-3a8068f (ch.epfl.insynth.feature.feature.group 1.0.0.v-2_10-201310140130-3a8068f)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE To: org.scala-ide.sdt.feature.feature.group [3.0.1.v-2_10-201307101641-eff8147]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.563
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE From: Scala IDE for Eclipse 3.0.1.v-2_10-201307101641-eff8147 (org.scala-ide.sdt.feature.feature.group 3.0.1.v-2_10-201307101641-eff8147)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE To: org.scala-ide.sdt.feature.feature.jar [3.0.1.v-2_10-201307101641-eff8147]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.563
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.563
+!MESSAGE From: Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.group 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.564
+!MESSAGE To: org.scala-ide.sdt.feature.feature.jar [3.0.2.v-2_10-201310181157-0880865]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-03-15 22:44:45.580
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-03-15 22:44:45.580
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE Software being installed: InSynth Feature 1.0.0.v-2_10-201310140130-3a8068f (ch.epfl.insynth.feature.feature.group 1.0.0.v-2_10-201310140130-3a8068f)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.group 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.580
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.jar 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE Scala IDE for Eclipse 3.0.1.v-2_10-201307101641-eff8147 (org.scala-ide.sdt.feature.feature.jar 3.0.1.v-2_10-201307101641-eff8147)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.580
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE From: InSynth Feature 1.0.0.v-2_10-201310140130-3a8068f (ch.epfl.insynth.feature.feature.group 1.0.0.v-2_10-201310140130-3a8068f)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE To: org.scala-ide.sdt.feature.feature.group [3.0.1.v-2_10-201307101641-eff8147]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.580
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE From: Scala IDE for Eclipse 3.0.1.v-2_10-201307101641-eff8147 (org.scala-ide.sdt.feature.feature.group 3.0.1.v-2_10-201307101641-eff8147)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE To: org.scala-ide.sdt.feature.feature.jar [3.0.1.v-2_10-201307101641-eff8147]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.580
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE From: Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.group 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.580
+!MESSAGE To: org.scala-ide.sdt.feature.feature.jar [3.0.2.v-2_10-201310181157-0880865]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-03-15 22:44:45.581
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-03-15 22:44:45.581
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.581
+!MESSAGE Software being installed: InSynth Feature 1.0.0.v-2_10-201310140130-3a8068f (ch.epfl.insynth.feature.feature.group 1.0.0.v-2_10-201310140130-3a8068f)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.581
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.group 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.581
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.581
+!MESSAGE Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.jar 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.581
+!MESSAGE Scala IDE for Eclipse 3.0.1.v-2_10-201307101641-eff8147 (org.scala-ide.sdt.feature.feature.jar 3.0.1.v-2_10-201307101641-eff8147)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.581
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.581
+!MESSAGE From: InSynth Feature 1.0.0.v-2_10-201310140130-3a8068f (ch.epfl.insynth.feature.feature.group 1.0.0.v-2_10-201310140130-3a8068f)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.581
+!MESSAGE To: org.scala-ide.sdt.feature.feature.group [3.0.1.v-2_10-201307101641-eff8147]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.581
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.581
+!MESSAGE From: Scala IDE for Eclipse 3.0.1.v-2_10-201307101641-eff8147 (org.scala-ide.sdt.feature.feature.group 3.0.1.v-2_10-201307101641-eff8147)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.582
+!MESSAGE To: org.scala-ide.sdt.feature.feature.jar [3.0.1.v-2_10-201307101641-eff8147]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-03-15 22:44:45.582
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.582
+!MESSAGE From: Scala IDE for Eclipse 3.0.2.v-2_10-201310181157-0880865 (org.scala-ide.sdt.feature.feature.group 3.0.2.v-2_10-201310181157-0880865)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-03-15 22:44:45.582
+!MESSAGE To: org.scala-ide.sdt.feature.feature.jar [3.0.2.v-2_10-201310181157-0880865]
+!SESSION 2014-03-15 23:24:40.695 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-03-15 23:24:58.421
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-03-15 23:30:27.222 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-03-15 23:30:38.576
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.scala-ide.sdt.core 1 0 2014-03-17 19:57:44.661
+!MESSAGE InSynth library logger configured to file path: /Users/t0m/Projects/workspace/.metadata/.plugins/ch.epfl.insynth/insynth-library.log
+
+!ENTRY org.scala-ide.sdt.core 1 0 2014-03-17 19:57:44.665
+!MESSAGE InSynth library logger disabled.
+!SESSION 2014-03-23 23:50:55.729 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-03-23 23:51:11.354
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-03-23 23:52:48.730 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-03-23 23:53:04.893
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-04-25 21:20:34.248 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-04-25 21:20:46.875
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-04-25 21:23:37.935 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-04-25 21:23:55.274
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.erlide.core 1 0 2014-04-25 21:24:15.024
+!MESSAGE Erlide log is in /Users/t0m/Projects/workspace
+
+!ENTRY org.erlide.core 1 0 2014-04-25 21:24:15.033
+!MESSAGE *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII) 
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-25 21:24:26.698
+!MESSAGE While loading class "org.erlide.engine.model.IErlModelChangeListener", thread "Thread[main,6,main]" timed out waiting (5006ms) for thread "Thread[Worker-2,5,main]" to finish starting bundle "org.erlide.model.api_0.24.5.201404091819 [437]". To avoid deadlock, thread "Thread[main,6,main]" is proceeding but "org.erlide.engine.model.IErlModelChangeListener" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "reference:file:plugins/org.erlide.model.api_0.24.5.201404091819.jar" by thread "Worker-2".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:298)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClassHoldingLock(ClasspathManager.java:638)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:613)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:574)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:492)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:465)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:464)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.erlide.ui.editors.erl.outline.filters.ToolbarFilterHandler.updateElement(ToolbarFilterHandler.java:46)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.updateElement(HandlerProxy.java:456)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.updateElement(E4HandlerProxy.java:120)
+	at org.eclipse.ui.internal.WorkbenchHandlerServiceHandler.updateElement(WorkbenchHandlerServiceHandler.java:49)
+	at org.eclipse.ui.internal.commands.CommandService$1.run(CommandService.java:251)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.commands.CommandService.refreshElements(CommandService.java:255)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.refreshElements(HandlerProxy.java:467)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.loadHandler(HandlerProxy.java:351)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.setEnabled(HandlerProxy.java:230)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.setEnabled(E4HandlerProxy.java:130)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.setEnabled(HandlerServiceHandler.java:82)
+	at org.eclipse.core.commands.Command.setEnabled(Command.java:886)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.canExecute(HandlerServiceImpl.java:173)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.canExecuteItem(HandledContributionItem.java:864)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$2(HandledContributionItem.java:853)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$3.run(HandledContributionItem.java:231)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.updateItemEnablement(HandledContributionItem.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$ToolItemUpdateTimer.run(HandledContributionItem.java:152)
+	at org.eclipse.swt.widgets.Display.timerProc(Display.java:4742)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5518)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationNextEventMatchingMask(Display.java:4918)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5296)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.nextEventMatchingMask(NSApplication.java:94)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.jface.dialogs.ErrorDialog.open(ErrorDialog.java:363)
+	at org.eclipse.jface.dialogs.ErrorDialog.openError(ErrorDialog.java:427)
+	at org.eclipse.jface.dialogs.ErrorDialog.openError(ErrorDialog.java:392)
+	at org.erlide.ui.internal.ErlideUIPlugin$1.run(ErlideUIPlugin.java:174)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 95 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:298)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClassHoldingLock(ClasspathManager.java:638)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:613)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:574)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:492)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:465)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:464)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.erlide.ui.editors.erl.outline.filters.ToolbarFilterHandler.updateElement(ToolbarFilterHandler.java:46)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.updateElement(HandlerProxy.java:456)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.updateElement(E4HandlerProxy.java:120)
+	at org.eclipse.ui.internal.WorkbenchHandlerServiceHandler.updateElement(WorkbenchHandlerServiceHandler.java:49)
+	at org.eclipse.ui.internal.commands.CommandService$1.run(CommandService.java:251)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.commands.CommandService.refreshElements(CommandService.java:255)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.refreshElements(HandlerProxy.java:467)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.loadHandler(HandlerProxy.java:351)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.setEnabled(HandlerProxy.java:230)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.setEnabled(E4HandlerProxy.java:130)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.setEnabled(HandlerServiceHandler.java:82)
+	at org.eclipse.core.commands.Command.setEnabled(Command.java:886)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.canExecute(HandlerServiceImpl.java:173)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.canExecuteItem(HandledContributionItem.java:864)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$2(HandledContributionItem.java:853)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$3.run(HandledContributionItem.java:231)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.updateItemEnablement(HandledContributionItem.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$ToolItemUpdateTimer.run(HandledContributionItem.java:152)
+	at org.eclipse.swt.widgets.Display.timerProc(Display.java:4742)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5518)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationNextEventMatchingMask(Display.java:4918)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5296)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.nextEventMatchingMask(NSApplication.java:94)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.jface.dialogs.ErrorDialog.open(ErrorDialog.java:363)
+	at org.eclipse.jface.dialogs.ErrorDialog.openError(ErrorDialog.java:427)
+	at org.eclipse.jface.dialogs.ErrorDialog.openError(ErrorDialog.java:392)
+	at org.erlide.ui.internal.ErlideUIPlugin$1.run(ErlideUIPlugin.java:174)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.erlide.model.api 4 0 2014-04-25 21:24:44.581
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "reference:file:plugins/org.erlide.model.api_0.24.5.201404091819.jar" by thread "Worker-2".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:564)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 18 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:564)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.core.jobs 2 2 2014-04-25 21:24:45.682
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.decorators.DecorationScheduler$1
+!SESSION 2014-04-25 21:24:51.342 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-04-25 21:25:03.703
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.erlide.core 1 0 2014-04-25 21:25:21.469
+!MESSAGE Erlide log is in /Users/t0m/Projects/workspace
+
+!ENTRY org.erlide.core 1 0 2014-04-25 21:25:21.476
+!MESSAGE *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII) 
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-25 21:25:32.036
+!MESSAGE While loading class "org.erlide.engine.model.IErlModelChangeListener", thread "Thread[main,6,main]" timed out waiting (5007ms) for thread "Thread[Worker-3,5,main]" to finish starting bundle "org.erlide.model.api_0.24.5.201404091819 [437]". To avoid deadlock, thread "Thread[main,6,main]" is proceeding but "org.erlide.engine.model.IErlModelChangeListener" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "reference:file:plugins/org.erlide.model.api_0.24.5.201404091819.jar" by thread "Worker-3".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:298)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClassHoldingLock(ClasspathManager.java:638)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:613)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:574)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:492)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:465)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:464)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.erlide.ui.editors.erl.outline.filters.ToolbarFilterHandler.updateElement(ToolbarFilterHandler.java:46)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.updateElement(HandlerProxy.java:456)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.updateElement(E4HandlerProxy.java:120)
+	at org.eclipse.ui.internal.WorkbenchHandlerServiceHandler.updateElement(WorkbenchHandlerServiceHandler.java:49)
+	at org.eclipse.ui.internal.commands.CommandService$1.run(CommandService.java:251)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.commands.CommandService.refreshElements(CommandService.java:255)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.refreshElements(HandlerProxy.java:467)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.loadHandler(HandlerProxy.java:351)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.setEnabled(HandlerProxy.java:230)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.setEnabled(E4HandlerProxy.java:130)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.setEnabled(HandlerServiceHandler.java:82)
+	at org.eclipse.core.commands.Command.setEnabled(Command.java:886)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.canExecute(HandlerServiceImpl.java:173)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.canExecuteItem(HandledContributionItem.java:864)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$2(HandledContributionItem.java:853)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$3.run(HandledContributionItem.java:231)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.updateItemEnablement(HandledContributionItem.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$ToolItemUpdateTimer.run(HandledContributionItem.java:152)
+	at org.eclipse.swt.widgets.Display.runTimers(Display.java:4144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3642)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.jface.dialogs.ErrorDialog.open(ErrorDialog.java:363)
+	at org.eclipse.jface.dialogs.ErrorDialog.openError(ErrorDialog.java:427)
+	at org.eclipse.jface.dialogs.ErrorDialog.openError(ErrorDialog.java:392)
+	at org.erlide.ui.internal.ErlideUIPlugin$1.run(ErlideUIPlugin.java:174)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 89 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:298)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClassHoldingLock(ClasspathManager.java:638)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:613)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:574)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:492)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:465)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:464)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.erlide.ui.editors.erl.outline.filters.ToolbarFilterHandler.updateElement(ToolbarFilterHandler.java:46)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.updateElement(HandlerProxy.java:456)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.updateElement(E4HandlerProxy.java:120)
+	at org.eclipse.ui.internal.WorkbenchHandlerServiceHandler.updateElement(WorkbenchHandlerServiceHandler.java:49)
+	at org.eclipse.ui.internal.commands.CommandService$1.run(CommandService.java:251)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.commands.CommandService.refreshElements(CommandService.java:255)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.refreshElements(HandlerProxy.java:467)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.loadHandler(HandlerProxy.java:351)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.setEnabled(HandlerProxy.java:230)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.setEnabled(E4HandlerProxy.java:130)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.setEnabled(HandlerServiceHandler.java:82)
+	at org.eclipse.core.commands.Command.setEnabled(Command.java:886)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.canExecute(HandlerServiceImpl.java:173)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.canExecuteItem(HandledContributionItem.java:864)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$2(HandledContributionItem.java:853)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$3.run(HandledContributionItem.java:231)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.updateItemEnablement(HandledContributionItem.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$ToolItemUpdateTimer.run(HandledContributionItem.java:152)
+	at org.eclipse.swt.widgets.Display.runTimers(Display.java:4144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3642)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.jface.dialogs.ErrorDialog.open(ErrorDialog.java:363)
+	at org.eclipse.jface.dialogs.ErrorDialog.openError(ErrorDialog.java:427)
+	at org.eclipse.jface.dialogs.ErrorDialog.openError(ErrorDialog.java:392)
+	at org.erlide.ui.internal.ErlideUIPlugin$1.run(ErlideUIPlugin.java:174)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.erlide.model.api 4 0 2014-04-25 21:25:55.811
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "reference:file:plugins/org.erlide.model.api_0.24.5.201404091819.jar" by thread "Worker-3".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:564)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 18 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:564)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.core.jobs 2 2 2014-04-25 21:25:56.139
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.decorators.DecorationScheduler$1
+!SESSION 2014-04-25 21:29:31.621 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-04-25 21:29:42.880
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.erlide.core 1 0 2014-04-25 21:30:00.188
+!MESSAGE Erlide log is in /Users/t0m/Projects/workspace
+
+!ENTRY org.erlide.core 1 0 2014-04-25 21:30:00.194
+!MESSAGE *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII) 
+
+!ENTRY org.eclipse.ui 4 4 2014-04-25 21:44:29.832
+!MESSAGE Unable to create part
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2014-04-25 21:44:29.832
+!MESSAGE The file does not exist.
+!STACK 1
+org.eclipse.core.runtime.CoreException: The file does not exist.
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:237)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:112)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:559)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.createFileInfo(CompilationUnitDocumentProvider.java:980)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.connect(CompilationUnitDocumentProvider.java:1244)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4225)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:237)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1480)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2584)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2557)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1395)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$19.run(AbstractTextEditor.java:3212)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372)
+	at org.eclipse.ui.internal.WorkbenchWindow$13.run(WorkbenchWindow.java:1812)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:1809)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3230)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3257)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:359)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:306)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:877)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:857)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:119)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:333)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:254)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:102)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:71)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:53)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:949)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:735)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:700)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:685)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$1.handleEvent(PartServiceImpl.java:90)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:41)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:180)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:150)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4650)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:205)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:80)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:58)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:171)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1141)
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1477)
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1430)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1400)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1522)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$23.run(AbstractTextEditor.java:4325)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3976)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+!SUBENTRY 1 org.eclipse.core.filebuffers 4 0 2014-04-25 21:44:29.835
+!MESSAGE The file does not exist.
+
+!ENTRY org.eclipse.ui 4 4 2014-04-25 21:44:51.991
+!MESSAGE Unable to create part
+
+!ENTRY org.eclipse.ui 4 0 2014-04-25 21:44:51.991
+!MESSAGE Factory org.eclipse.jdt.ui.ClassFileEditorInputFactory returned null from createElement for editor id=org.eclipse.jdt.ui.ClassFileEditor name=null
+
+!ENTRY org.eclipse.jdt.core 4 969 2014-04-25 21:54:46.852
+!MESSAGE src [in test-scala] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2014-04-25 21:55:51.767
+!MESSAGE File not found: '/test-scala/src/main/scala/Greeter.scala'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/test-scala/src/main/scala/Greeter.scala' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:287)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1187)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:649)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.getContents(ScalaSourceFile.scala:128)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.sourceFile$default$1(InteractiveCompilationUnit.scala:37)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.sourceFile$default$1(ScalaSourceFile.scala:51)
+	at scala.tools.eclipse.ScalaPresentationCompiler$$anon$1.default(ScalaPresentationCompiler.scala:68)
+	at scala.tools.eclipse.ScalaPresentationCompiler$$anon$1.default(ScalaPresentationCompiler.scala:66)
+	at scala.collection.mutable.HashMap.apply(HashMap.scala:64)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.doWithSourceFile(InteractiveCompilationUnit.scala:56)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.doWithSourceFile(ScalaSourceFile.scala:51)
+	at scala.tools.eclipse.javaelements.ScalaCompilationUnit$class.addToIndexer(ScalaCompilationUnit.scala:134)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.addToIndexer(ScalaSourceFile.scala:51)
+	at scala.tools.eclipse.ScalaSourceIndexer$$anonfun$indexDocument$2.apply(ScalaSourceIndexer.scala:23)
+	at scala.tools.eclipse.ScalaSourceIndexer$$anonfun$indexDocument$2.apply(ScalaSourceIndexer.scala:23)
+	at scala.Option.map(Option.scala:145)
+	at scala.tools.eclipse.ScalaSourceIndexer.indexDocument(ScalaSourceIndexer.scala:23)
+	at scala.tools.eclipse.contribution.weaving.jdt.indexerprovider.IndexerProviderAspect.ajc$around$scala_tools_eclipse_contribution_weaving_jdt_indexerprovider_IndexerProviderAspect$1$16276a3c(IndexerProviderAspect.aj:30)
+	at org.eclipse.jdt.internal.core.search.JavaSearchParticipant.indexDocument(JavaSearchParticipant.java:69)
+	at org.eclipse.jdt.internal.core.search.indexing.IndexManager.indexDocument(IndexManager.java:498)
+	at org.eclipse.jdt.internal.core.search.indexing.IndexManager$1.execute(IndexManager.java:938)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:405)
+	at java.lang.Thread.run(Thread.java:724)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2014-04-25 21:55:51.768
+!MESSAGE Resource '/test-scala/src/main/scala/Greeter.scala' does not exist.
+
+!ENTRY org.scala-ide.sdt.core 1 0 2014-04-25 23:05:42.241
+!MESSAGE InSynth library logger configured to file path: /Users/t0m/Projects/workspace/.metadata/.plugins/ch.epfl.insynth/insynth-library.log
+
+!ENTRY org.scala-ide.sdt.core 1 0 2014-04-25 23:05:42.243
+!MESSAGE InSynth library logger disabled.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2014-04-25 23:16:51.420
+!MESSAGE Error in Scala compiler
+!STACK 1
+org.eclipse.core.runtime.CoreException: I/O exception
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2684)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.FileNotFoundException: /Users/t0m/Projects/workspace/example/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:215)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:145)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:159)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2677)
+	... 34 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 -1 2014-04-25 23:16:51.422
+!MESSAGE I/O exception
+!STACK 0
+java.io.FileNotFoundException: /Users/t0m/Projects/workspace/example/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:215)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:145)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:159)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2677)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.scala-ide.sdt.core 4 0 2014-04-25 23:17:00.162
+!MESSAGE Error in Scala compiler
+!STACK 1
+org.eclipse.core.runtime.CoreException: I/O exception
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2648)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.util.zip.ZipException
+	... 35 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 -1 2014-04-25 23:17:00.164
+!MESSAGE I/O exception
+!STACK 0
+java.util.zip.ZipException
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2648)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.scala-ide.sdt.core 4 0 2014-04-26 07:05:30.994
+!MESSAGE Error in Scala compiler
+!STACK 1
+org.eclipse.core.runtime.CoreException: I/O exception
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2648)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.util.zip.ZipException
+	... 35 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 -1 2014-04-26 07:05:30.995
+!MESSAGE I/O exception
+!STACK 0
+java.util.zip.ZipException
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2648)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply$mcZ$sp(ClasspathManagement.scala:267)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$isZipFileScalaLib$1$2.apply(ClasspathManagement.scala:266)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:102)
+	at scala.tools.eclipse.ClasspathManagement$class.isZipFileScalaLib$1(ClasspathManagement.scala:266)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:282)
+	at scala.tools.eclipse.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:275)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:108)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:275)
+	at scala.tools.eclipse.ScalaProject.scalaLibraries(ScalaProject.scala:80)
+	at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:121)
+	at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+	at scala.tools.eclipse.buildmanager.sbtintegration.SbtInputs$$anon$3.classpath(SbtInputs.scala:40)
+	at sbt.compiler.IC$.compile(IncrementalCompiler.scala:21)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:133)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:123)
+	at scala.tools.eclipse.buildmanager.sbtintegration.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:178)
+	at scala.tools.eclipse.ScalaProject.build(ScalaProject.scala:664)
+	at scala.tools.eclipse.ScalaBuilder.build(ScalaBuilder.scala:119)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2014-05-10 18:51:15.041 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.core.net 1 0 2014-05-10 18:51:28.934
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-10 18:51:39.052
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]
+
+!ENTRY org.erlide.core 1 0 2014-05-10 18:51:45.549
+!MESSAGE Erlide log is in /Users/t0m/Projects/workspace
+
+!ENTRY org.erlide.core 1 0 2014-05-10 18:51:45.556
+!MESSAGE *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (UTF-8) 
+
+!ENTRY org.scala-ide.sdt.core 4 0 2014-05-10 18:52:03.821
+!MESSAGE Java Model Exception: Java Model Status [example does not exist]
+!SESSION 2014-05-10 18:53:54.805 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-05-10 18:54:11.907
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.erlide.core 1 0 2014-05-10 18:54:27.839
+!MESSAGE Erlide log is in /Users/t0m/Projects/workspace
+
+!ENTRY org.erlide.core 1 0 2014-05-10 18:54:27.845
+!MESSAGE *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII) 
+
+!ENTRY org.scala-ide.sdt.core 4 0 2014-05-10 18:54:38.415
+!MESSAGE Java Model Exception: Java Model Status [example does not exist]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-10 19:34:47.778
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]
+
+!ENTRY org.apache.log4j 4 0 2014-05-10 19:34:47.787
+!MESSAGE org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl  - <default> [in lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]] does not exist
+
+!STACK 1
+Java Model Exception: Java Model Status [<default> [in lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+	at org.eclipse.jdt.internal.core.JarPackageFragment.buildStructure(JarPackageFragment.java:50)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:521)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:244)
+	at org.eclipse.jdt.internal.core.JarPackageFragment.storedNonJavaResources(JarPackageFragment.java:206)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getNonJavaResources(JarPackageFragmentRoot.java:170)
+	at org.eclipse.xtext.ui.resource.PackageFragmentRootWalker.traverse(PackageFragmentRootWalker.java:52)
+	at org.eclipse.xtext.ui.resource.SourceAttachmentPackageFragmentRootWalker.traverse(SourceAttachmentPackageFragmentRootWalker.java:168)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.initializeData(Storage2UriMapperJavaImpl.java:230)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.getCachedData(Storage2UriMapperJavaImpl.java:169)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.updateCache(Storage2UriMapperJavaImpl.java:323)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.access$3(Storage2UriMapperJavaImpl.java:317)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl$2.elementChanged(Storage2UriMapperJavaImpl.java:376)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$4.run(DeltaProcessor.java:1682)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1672)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1506)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1482)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2094)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:470)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:396)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1531)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:45)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2014-05-10 19:34:47.787
+!MESSAGE <default> [in lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-10 19:34:47.788
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]
+
+!ENTRY org.apache.log4j 4 0 2014-05-10 19:34:47.789
+!MESSAGE org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl  - <default> [in lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]] does not exist
+
+!STACK 1
+Java Model Exception: Java Model Status [<default> [in lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+	at org.eclipse.jdt.internal.core.JarPackageFragment.buildStructure(JarPackageFragment.java:50)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:521)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:244)
+	at org.eclipse.jdt.internal.core.JarPackageFragment.storedNonJavaResources(JarPackageFragment.java:206)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getNonJavaResources(JarPackageFragmentRoot.java:170)
+	at org.eclipse.xtext.ui.resource.PackageFragmentRootWalker.traverse(PackageFragmentRootWalker.java:52)
+	at org.eclipse.xtext.ui.resource.SourceAttachmentPackageFragmentRootWalker.traverse(SourceAttachmentPackageFragmentRootWalker.java:168)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.initializeData(Storage2UriMapperJavaImpl.java:230)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.getCachedData(Storage2UriMapperJavaImpl.java:169)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.updateCache(Storage2UriMapperJavaImpl.java:323)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.access$3(Storage2UriMapperJavaImpl.java:317)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl$2.elementChanged(Storage2UriMapperJavaImpl.java:376)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$4.run(DeltaProcessor.java:1682)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1672)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1506)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1482)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2094)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:470)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:396)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1531)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:45)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2014-05-10 19:34:47.790
+!MESSAGE <default> [in lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-10 19:34:49.147
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-10 19:34:49.148
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]
+
+!ENTRY org.scala-ide.sdt.core 1 0 2014-05-10 19:37:23.676
+!MESSAGE InSynth library logger configured to file path: /Users/t0m/Projects/workspace/.metadata/.plugins/ch.epfl.insynth/insynth-library.log
+
+!ENTRY org.scala-ide.sdt.core 1 0 2014-05-10 19:37:23.677
+!MESSAGE InSynth library logger disabled.
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-10 19:52:34.764
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-10 19:52:34.764
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]
+!SESSION 2014-05-12 19:46:05.857 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/t0m/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-05-12 19:46:18.954
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.erlide.core 1 0 2014-05-12 19:46:35.331
+!MESSAGE Erlide log is in /Users/t0m/Projects/workspace
+
+!ENTRY org.erlide.core 1 0 2014-05-12 19:46:35.341
+!MESSAGE *** starting Erlide v0.28.0.201404091819 (core=0.24.5.201404091819) (model api=0.24.5.201404091819) *** (US-ASCII) 
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-12 19:47:56.996
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]
+
+!ENTRY org.apache.log4j 4 0 2014-05-12 19:47:57.006
+!MESSAGE org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl  - <default> [in lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]] does not exist
+
+!STACK 1
+Java Model Exception: Java Model Status [<default> [in lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+	at org.eclipse.jdt.internal.core.JarPackageFragment.buildStructure(JarPackageFragment.java:50)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:521)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:244)
+	at org.eclipse.jdt.internal.core.JarPackageFragment.storedNonJavaResources(JarPackageFragment.java:206)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getNonJavaResources(JarPackageFragmentRoot.java:170)
+	at org.eclipse.xtext.ui.resource.PackageFragmentRootWalker.traverse(PackageFragmentRootWalker.java:52)
+	at org.eclipse.xtext.ui.resource.SourceAttachmentPackageFragmentRootWalker.traverse(SourceAttachmentPackageFragmentRootWalker.java:168)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.initializeData(Storage2UriMapperJavaImpl.java:230)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.getCachedData(Storage2UriMapperJavaImpl.java:169)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.updateCache(Storage2UriMapperJavaImpl.java:323)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.initializeCache(Storage2UriMapperJavaImpl.java:357)
+	at org.eclipse.xtext.builder.builderState.AbstractBuilderState.load(AbstractBuilderState.java:61)
+	at org.eclipse.xtext.builder.builderState.AbstractBuilderState.ensureLoaded(AbstractBuilderState.java:68)
+	at org.eclipse.xtext.builder.builderState.AbstractBuilderState.getExportedObjects(AbstractBuilderState.java:177)
+	at org.eclipse.xtext.builder.impl.DirtyStateAwareResourceDescriptions.getExportedObjects(DirtyStateAwareResourceDescriptions.java:143)
+	at org.eclipse.xtext.common.types.ui.notification.DeltaConverter.isDerived(DeltaConverter.java:192)
+	at org.eclipse.xtext.common.types.ui.notification.DeltaConverter.convertCompilationUnit(DeltaConverter.java:139)
+	at org.eclipse.xtext.common.types.ui.notification.DeltaConverter.convertCompilationUnits(DeltaConverter.java:254)
+	at org.eclipse.xtext.common.types.ui.notification.DeltaConverter.convert(DeltaConverter.java:124)
+	at org.eclipse.xtext.common.types.ui.notification.TypeResourceUnloader.getAsResourceDescriptionChange(TypeResourceUnloader.java:49)
+	at org.eclipse.xtext.common.types.ui.notification.TypeResourceUnloader.elementChanged(TypeResourceUnloader.java:43)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$4.run(DeltaProcessor.java:1682)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1672)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fireReconcileDelta(DeltaProcessor.java:1524)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1483)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:769)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:788)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1247)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.reconcile(ScalaSourceFile.scala:84)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2014-05-12 19:47:57.007
+!MESSAGE <default> [in lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-12 19:47:57.008
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]
+
+!ENTRY org.apache.log4j 4 0 2014-05-12 19:47:57.010
+!MESSAGE org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl  - <default> [in lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]] does not exist
+
+!STACK 1
+Java Model Exception: Java Model Status [<default> [in lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+	at org.eclipse.jdt.internal.core.JarPackageFragment.buildStructure(JarPackageFragment.java:50)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:521)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:244)
+	at org.eclipse.jdt.internal.core.JarPackageFragment.storedNonJavaResources(JarPackageFragment.java:206)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getNonJavaResources(JarPackageFragmentRoot.java:170)
+	at org.eclipse.xtext.ui.resource.PackageFragmentRootWalker.traverse(PackageFragmentRootWalker.java:52)
+	at org.eclipse.xtext.ui.resource.SourceAttachmentPackageFragmentRootWalker.traverse(SourceAttachmentPackageFragmentRootWalker.java:168)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.initializeData(Storage2UriMapperJavaImpl.java:230)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.getCachedData(Storage2UriMapperJavaImpl.java:169)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.updateCache(Storage2UriMapperJavaImpl.java:323)
+	at org.eclipse.xtext.ui.resource.Storage2UriMapperJavaImpl.initializeCache(Storage2UriMapperJavaImpl.java:357)
+	at org.eclipse.xtext.builder.builderState.AbstractBuilderState.load(AbstractBuilderState.java:61)
+	at org.eclipse.xtext.builder.builderState.AbstractBuilderState.ensureLoaded(AbstractBuilderState.java:68)
+	at org.eclipse.xtext.builder.builderState.AbstractBuilderState.getExportedObjects(AbstractBuilderState.java:177)
+	at org.eclipse.xtext.builder.impl.DirtyStateAwareResourceDescriptions.getExportedObjects(DirtyStateAwareResourceDescriptions.java:143)
+	at org.eclipse.xtext.common.types.ui.notification.DeltaConverter.isDerived(DeltaConverter.java:192)
+	at org.eclipse.xtext.common.types.ui.notification.DeltaConverter.convertCompilationUnit(DeltaConverter.java:139)
+	at org.eclipse.xtext.common.types.ui.notification.DeltaConverter.convertCompilationUnits(DeltaConverter.java:254)
+	at org.eclipse.xtext.common.types.ui.notification.DeltaConverter.convert(DeltaConverter.java:124)
+	at org.eclipse.xtext.common.types.ui.notification.TypeResourceUnloader.getAsResourceDescriptionChange(TypeResourceUnloader.java:49)
+	at org.eclipse.xtext.common.types.ui.notification.TypeResourceUnloader.elementChanged(TypeResourceUnloader.java:43)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$4.run(DeltaProcessor.java:1682)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1672)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fireReconcileDelta(DeltaProcessor.java:1524)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1483)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:769)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:788)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1247)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.reconcile(ScalaSourceFile.scala:84)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2014-05-12 19:47:57.011
+!MESSAGE <default> [in lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-12 20:09:23.957
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar [in example]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-05-12 20:09:23.958
+!MESSAGE Invalid ZIP archive: lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar [in example]
+
+!ENTRY org.scala-ide.sdt.core 1 0 2014-05-12 20:09:27.101
+!MESSAGE InSynth library logger configured to file path: /Users/t0m/Projects/workspace/.metadata/.plugins/ch.epfl.insynth/insynth-library.log
+
+!ENTRY org.scala-ide.sdt.core 1 0 2014-05-12 20:09:27.103
+!MESSAGE InSynth library logger disabled.

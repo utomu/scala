@@ -1,0 +1,9 @@
+object Greet  extends App{
+	println("hello")
+	
+	def ab(x:Int):Boolean ={
+	  def nn(x:Int):Boolean = 
+	    true
+	  nn(12)
+	}
+}

@@ -1,0 +1,50 @@
+package recfun
+import common._
+
+object Main {
+  def main(args: Array[String]) {
+    
+    def z="a)(oapoapao"
+    balance(z.toList)
+    println("Pascal's Triangle")
+    for (row <- 0 to 10) {
+      for (col <- 0 to row)
+        print(pascal(col, row) + " ")
+      println()
+    }
+  }
+
+  /**
+   * Exercise 1
+   */
+  def pascal(c: Int, r: Int): Int = 
+    if (c<1 || r<2 || c==r) 1
+    else pascal(c-1,r-1)+pascal(c,r-1)
+
+  /**
+   * Exercise 2
+   */
+    
+                                          //> countBrace: (chList: List[Char], count: Int)Int
+  
+      
+  def balance(chars: List[Char]): Boolean = {
+    def countBrace(chList: List[Char], count: Int): Int = {
+    if (chList.isEmpty) count else {
+      chList.head match {
+        case '(' => countBrace(chList.tail, count+1 )
+        case ')' => -1
+        case _ => 0
+      }
+      countBrace(chList.tail, count )
+    }
+  }
+    def count: Int = countBrace(chars, 0)
+    count == 0
+  }
+
+  /**
+   * Exercise 3
+   */
+  def countChange(money: Int, coins: List[Int]): Int = ???
+}
